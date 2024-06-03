@@ -26,10 +26,11 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['garudapaksi-yusuf/TSA_Rice_Price',
+        projects: [
         'garudapaksi-yusuf/Syarah_Price_Regression',
         'garudapaksi-yusuf/Supermarket_Customers',
-        'garudapaksi-yusuf/BSDApp'
+        'garudapaksi-yusuf/BSDApp',
+        'garudapaksi-yusuf/Tugas_Purwadhika',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -171,7 +172,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'business',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
