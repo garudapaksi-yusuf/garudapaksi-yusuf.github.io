@@ -210,7 +210,7 @@ const CONFIG = {
       // 'dracula',
       // 'cmyk',
       // 'autumn',
-      // 'business',
+      'business',
       // 'acid',
       // 'lemonade',
       // 'night',
