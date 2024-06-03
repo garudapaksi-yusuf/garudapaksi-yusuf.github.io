@@ -82,7 +82,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'garudapaksi-yusuf@gmail.com',
+    email: 'garudapaksi.yusuf@gmail.com',
   },
   resume: {
     fileUrl:
