@@ -26,10 +26,10 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['garudapaksi-yusuf/BSDApp',
-        'garudapaksi-yusuf/Supermarket_Customers',
+        projects: ['garudapaksi-yusuf/TSA_Rice_Price',
         'garudapaksi-yusuf/Syarah_Price_Regression',
-        'garudapaksi-yusuf/TSA_Rice_Price'
+        'garudapaksi-yusuf/Supermarket_Customers',
+        'garudapaksi-yusuf/BSDApp'
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -160,7 +160,7 @@ const CONFIG = {
   blog: {
     source: 'medium', // medium | dev
     username: 'garudapaksi.yusuf', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
