@@ -27,10 +27,12 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
+        'garudapaksi-yusuf/TSA_Rice_Price',
         'garudapaksi-yusuf/Syarah_Price_Regression',
         'garudapaksi-yusuf/Supermarket_Customers',
+        'garudapaksi-yusuf/Computer_Store_Spreadsheet',
+        'garudapaksi-yusuf/Data_Bank',
         'garudapaksi-yusuf/BSDApp',
-        'garudapaksi-yusuf/Tugas_Purwadhika',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
